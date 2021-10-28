@@ -1,6 +1,6 @@
 package Lesson14.FindFileExample;
 
-import Lesson14.FindFileExample.util.Finder;
+import Lesson14.Path.util.Finder;
 import java.io.IOException;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
